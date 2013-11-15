@@ -1,0 +1,54 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=NightLight Rev5
+*Date=10:18:59
+*CreatedBy=Fritzing 0.7.12b.02.13.6882
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;100k;THT;58.8457;-12.0175;-90;Bottom;R10
+2;;0805 [SMD];16.657;-3.77655;-90;Top;PWR
+3;;;8.03275;-47.4418;0;Bottom;+12V DC Centre +
+4;;THT;62.2733;-39.0755;180;Bottom;J1
+5;;;49.2871;-37.3946;0;Bottom;Via2
+6;;THT;64.7757;-11.9075;180;Bottom;J4
+7;;THT;4.79157;-20.3605;0;Bottom;J2
+8;;;56.5504;-37.3794;0;Bottom;Via1
+9;100k;THT;47.2935;-11.7917;-90;Bottom;R9
+10;;[THT];56.9925;-25.1733;-90;Bottom;S3
+11;;;8.25971;-16.4055;90;Bottom;TXT4
+12;;DIP16 [THT];42.9309;-38.4337;90;Bottom;ULN2003A
+13;;;8.2202;-24.1941;90;Bottom;TXT3
+14;;;4.05782;-42.6391;0;Bottom;TXT1
+15;10k;THT;19.7109;-17.4361;90;Bottom;R7
+16;;;34.0257;-20.5931;0;Bottom;TXT7
+17;;;58.0947;-33.5496;0;Bottom;TXT2
+18;100;0805 [SMD];22.6374;-36.3075;180;Top;R2
+19;;5 mm [THT];10.914;-33.3911;-90;Bottom;LED1
+20;;;57.9968;-37.2185;0;Bottom;TXT2
+21;;THT;53.2484;-11.7432;90;Bottom;R8
+22;;0805 [SMD];19.1782;-49.5046;90;Top;D13
+23;10k;THT;49.6266;-25.263;90;Bottom;R6
+24;;THT;64.7515;-20.331;180;Bottom;J3
+25;;;31.5182;-14.1514;0;Bottom;TXT6
+26;;[THT];13.0034;-17.2335;-90;Bottom;S2
+27;;[THT];24.6122;-4.79685;180;Bottom;RESET
+28;180;0805 [SMD];22.615;-29.7475;180;Top;R1
+29;;;6.94301;-5.69936;0;Bottom;IMG1
+30;;;58.0673;-44.133;0;Bottom;TXT2
+31;;;32.375;-16.5878;0;Bottom;TXT6
+32;;;58.0673;-40.7181;0;Bottom;TXT2
+33;;THT;19.9389;-32.7614;90;Bottom;J5
+34;220;0805 [SMD];16.612;-8.86417;-90;Top;R4
+35;;;34.1489;-24.6856;0;Bottom;TXT5
+36;;;44.0539;-26.486;0;Bottom;Night Light Shield
+37;220;0805 [SMD];20.3635;-45.3513;0;Top;R5
+38;;;6.77331;-40.6756;0;Bottom;TXT1
+39;100;0805 [SMD];22.6742;-39.13;180;Top;R3
