@@ -27,3 +27,4 @@ RGB LED Strip Motion Activated Night Light
   The rest of the code is released here under the Creative Commons 
   CC BY-NC-SA License http://creativecommons.org/licenses/by-nc-sa/3.0/au/
   
+  Jordan Heywood - me@jordanheywood.com
