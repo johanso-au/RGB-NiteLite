@@ -13,6 +13,9 @@ RGB LED Strip Motion Activated Night Light
   the light in the room so the night light will not operate
   during the day, or when the main lights are turned on.
   
+  The PCB includes on-board buttons and a RGB led for testing 
+  without additional hardware.
+  
   Limitations:
   ULM2003 is limited to 500mA per output, meaning each colour. LED
   strips are typically 115mA/Metre, but check with a multi-meter
