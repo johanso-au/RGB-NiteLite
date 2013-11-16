@@ -1,4 +1,7 @@
 RGB LED Strip Motion Activated Night Light
+
+Pictures: http://imgur.com/a/TQshe
+Video: http://youtu.be/ay8awluwBV4
   
   Idea: Use an RGB led strip
   (http://www.ladyada.net/products/rgbledstrip/), powered from a
