@@ -1,7 +1,10 @@
 RGB LED Strip Motion Activated Night Light
+==================================================
 
 Pictures: http://imgur.com/a/TQshe
 Video: http://youtu.be/ay8awluwBV4
+  
+  -----------------------
   
   Idea: Use an RGB led strip
   (http://www.ladyada.net/products/rgbledstrip/), powered from a
@@ -27,10 +30,10 @@ Video: http://youtu.be/ay8awluwBV4
   Inputs are designed for normally open contacts, but this can be
   changed in the code.
   
-  The RGB Fade in-out code is by Clay Shirky <clay.shirky@nyu.edu>.
-  The license for that code is unknown.
+  The RGB Fade in-out code is by Clay Shirky <clay.shirky@nyu.edu>
+  via http://arduino.cc/en/Tutorial/ColorCrossfader
   
   The rest of the code is released here under the Creative Commons 
   CC BY-NC-SA License http://creativecommons.org/licenses/by-nc-sa/3.0/au/
   
-  Jordan Heywood - me@jordanheywood.com
+  *Jordan Heywood - me@jordanheywood.com*
