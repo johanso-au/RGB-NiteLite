@@ -35,5 +35,3 @@ Video: http://youtu.be/ay8awluwBV4
   
   The rest of the code is released here under the Creative Commons 
   CC BY-NC-SA License http://creativecommons.org/licenses/by-nc-sa/3.0/au/
-  
-  *Jordan Heywood - me@jordanheywood.com*
